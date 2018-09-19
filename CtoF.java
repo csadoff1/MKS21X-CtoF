@@ -1,4 +1,4 @@
-public class CtoFTester {
+public class CtoF {
   
 public static double celsiusToFahrenheit (double n) {
   return (n * (9.0/5.0) + 32.0);
